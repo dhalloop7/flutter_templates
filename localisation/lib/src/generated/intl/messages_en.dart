@@ -22,6 +22,23 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
-        "appName": MessageLookupByLibrary.simpleMessage("MyAppName")
+        "appName": MessageLookupByLibrary.simpleMessage("Mixology"),
+        "beer": MessageLookupByLibrary.simpleMessage("Beer"),
+        "category": MessageLookupByLibrary.simpleMessage("Category"),
+        "cocktail": MessageLookupByLibrary.simpleMessage("Cocktail"),
+        "cocoa": MessageLookupByLibrary.simpleMessage("Cocoa"),
+        "coffeeTea": MessageLookupByLibrary.simpleMessage("Coffee / Tea"),
+        "drinkOfTheDay":
+            MessageLookupByLibrary.simpleMessage("Drink Of The Day"),
+        "homemadeLiqueur":
+            MessageLookupByLibrary.simpleMessage("Homemade Liqueur"),
+        "ordinaryDrink": MessageLookupByLibrary.simpleMessage("Ordinary Drink"),
+        "otherUnknown": MessageLookupByLibrary.simpleMessage("Other/Unknown"),
+        "punchPartyDrink":
+            MessageLookupByLibrary.simpleMessage("Punch / Party Drink"),
+        "shake": MessageLookupByLibrary.simpleMessage("Shake"),
+        "shot": MessageLookupByLibrary.simpleMessage("Shot"),
+        "softDrink": MessageLookupByLibrary.simpleMessage("Soft Drink"),
+        "viewAll": MessageLookupByLibrary.simpleMessage("View All")
       };
 }

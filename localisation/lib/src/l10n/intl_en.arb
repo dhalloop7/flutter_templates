@@ -1,3 +1,17 @@
 {
-  "appName": "MyAppName"
+  "appName": "Mixology",
+  "drinkOfTheDay": "Drink Of The Day",
+  "category": "Category",
+  "viewAll": "View All",
+  "ordinaryDrink": "Ordinary Drink",
+  "cocktail": "Cocktail",
+  "shake": "Shake",
+  "otherUnknown": "Other/Unknown",
+  "cocoa": "Cocoa",
+  "shot": "Shot",
+  "coffeeTea": "Coffee / Tea",
+  "homemadeLiqueur": "Homemade Liqueur",
+  "punchPartyDrink": "Punch / Party Drink",
+  "beer": "Beer",
+  "softDrink": "Soft Drink"
 }

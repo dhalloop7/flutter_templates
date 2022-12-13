@@ -1,6 +1,7 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+
 import 'intl/messages_all.dart';
 
 // **************************************************************************
@@ -50,11 +51,151 @@ class Strings {
     return Localizations.of<Strings>(context, Strings);
   }
 
-  /// `MyAppName`
+  /// `Mixology`
   String get appName {
     return Intl.message(
-      'MyAppName',
+      'Mixology',
       name: 'appName',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Drink Of The Day`
+  String get drinkOfTheDay {
+    return Intl.message(
+      'Drink Of The Day',
+      name: 'drinkOfTheDay',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Category`
+  String get category {
+    return Intl.message(
+      'Category',
+      name: 'category',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `View All`
+  String get viewAll {
+    return Intl.message(
+      'View All',
+      name: 'viewAll',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Ordinary Drink`
+  String get ordinaryDrink {
+    return Intl.message(
+      'Ordinary Drink',
+      name: 'ordinaryDrink',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Cocktail`
+  String get cocktail {
+    return Intl.message(
+      'Cocktail',
+      name: 'cocktail',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Shake`
+  String get shake {
+    return Intl.message(
+      'Shake',
+      name: 'shake',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Other/Unknown`
+  String get otherUnknown {
+    return Intl.message(
+      'Other/Unknown',
+      name: 'otherUnknown',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Cocoa`
+  String get cocoa {
+    return Intl.message(
+      'Cocoa',
+      name: 'cocoa',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Shot`
+  String get shot {
+    return Intl.message(
+      'Shot',
+      name: 'shot',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Coffee / Tea`
+  String get coffeeTea {
+    return Intl.message(
+      'Coffee / Tea',
+      name: 'coffeeTea',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Homemade Liqueur`
+  String get homemadeLiqueur {
+    return Intl.message(
+      'Homemade Liqueur',
+      name: 'homemadeLiqueur',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Punch / Party Drink`
+  String get punchPartyDrink {
+    return Intl.message(
+      'Punch / Party Drink',
+      name: 'punchPartyDrink',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Beer`
+  String get beer {
+    return Intl.message(
+      'Beer',
+      name: 'beer',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Soft Drink`
+  String get softDrink {
+    return Intl.message(
+      'Soft Drink',
+      name: 'softDrink',
       desc: '',
       args: [],
     );
